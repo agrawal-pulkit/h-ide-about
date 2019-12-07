@@ -1,0 +1,35 @@
+{
+  "title" : "Team",
+  "description" : "Little team description here",
+  "members" : [
+    {
+      "name" : "Pulkit Agrawal",
+      "description" : "Founder & CEO",
+      "avatar" : "self.jpg",
+      "social" : {
+        "facebook" : "https://www.facebook.com/pulkit.agrawal.1690",
+        "medium": "https://medium.com/@agrawal.pulkit1994",
+        "linkedin" : "https://www.linkedin.com/in/agrawal-pulkit/"
+      }
+    },
+    {
+      "name" : "Aditya Agrawal",
+      "description" : "CTO",
+      "avatar" : "aditya.jpg",
+      "social" : {
+        "twitter" : "https://www.facebook.com/aditya.agrawal1303",
+        "linkedin" : "https://www.linkedin.com/in/aditya-agrawal-1303/"
+      }
+    },
+    {
+      "name" : "Pulkit Maheshwari",
+      "description" : "Director",
+      "avatar" : "pulkit_mahi.jpg",
+      "social" : {
+        "facebook" : "https://www.facebook.com/pulkit.maheshwari1",
+        "linkedin" : "https://www.linkedin.com/in/pulkit-maheshwari-978646b1/",
+        "medium": "https://medium.com/@pulkitmaheshwari.oct"
+      }
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+baseURL = "https://about.hackersoon.com"
+languageCode = "en-us"
+title = "Hackersoon - About"
+
+theme = "about"
